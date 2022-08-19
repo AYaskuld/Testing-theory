@@ -8,4 +8,11 @@ https://www.uptrends.com/ - нагрузочное тестирование  с�
 
 PageSpeed Insights - мониторинг скорости загрузки сайта
 
-https://test-english.com/listening/a1/ - тест английского
+https://test-english.com/listening/a1/ - тест английскогo
+
+Тренажеры по поиску багов
+https://academybugs.com/find-bugs/
+
+https://qatest-dev.indvp.com/garden-and-outdoor
+
+http://www.testingcourse.ru/form
