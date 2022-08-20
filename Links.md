@@ -16,3 +16,5 @@ https://academybugs.com/find-bugs/
 https://qatest-dev.indvp.com/garden-and-outdoor
 
 http://www.testingcourse.ru/form
+
+https://launchdarkly.com/ - информация по тестовому окружению
