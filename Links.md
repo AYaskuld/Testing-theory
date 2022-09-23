@@ -18,3 +18,5 @@ https://qatest-dev.indvp.com/garden-and-outdoor
 http://www.testingcourse.ru/form
 
 https://launchdarkly.com/ - информация по тестовому окружению
+
+https://www.metadata2go.com/ - просмотр метаданных файла
