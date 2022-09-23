@@ -20,3 +20,7 @@ http://www.testingcourse.ru/form
 https://launchdarkly.com/ - информация по тестовому окружению
 
 https://www.metadata2go.com/ - просмотр метаданных файла
+
+https://www.adarsus.com - удаление метаданных 
+
+https://www.metacleaner.com - удаление метаданных
